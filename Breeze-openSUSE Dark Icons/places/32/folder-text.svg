@@ -34,11 +34,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1034"
+     inkscape:window-height="1019"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-8.3389831"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -145,7 +145,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#d3ecf3;fill-opacity:1;stroke:none"
      d="M 11 14 L 11 15 L 21 15 L 21 14 L 11 14 z M 11 16 L 11 17 L 21 17 L 21 16 L 11 16 z M 11 18 L 11 19 L 16 19 L 16 18 L 11 18 z M 11 20 L 11 21 L 21 21 L 21 20 L 11 20 z M 11 22 L 11 23 L 21 23 L 21 22 L 11 22 z "
      class="ColorScheme-Background"
      id="path12" />
