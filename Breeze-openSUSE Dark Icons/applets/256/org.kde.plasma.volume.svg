@@ -10,7 +10,7 @@
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="org.kde.plasma.volume.svg">
   <metadata
      id="metadata10">
@@ -34,14 +34,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1050"
+     inkscape:window-height="1026"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="2.6074563"
-     inkscape:cx="13.531406"
+     inkscape:cx="-61.254123"
      inkscape:cy="118.36035"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -122,7 +122,7 @@
      height="35"
      width="6"
      id="rect6599"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#3daee9;fill:#00aa7f;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      rx="3"
      class="ColorScheme-Highlight" />
@@ -144,7 +144,7 @@
      height="115"
      width="6"
      id="rect6599-4"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#3daee9;fill:#00aa7f;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      rx="3"
      class="ColorScheme-Highlight" />
