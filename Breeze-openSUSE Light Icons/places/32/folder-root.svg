@@ -82,11 +82,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1034"
+     inkscape:window-height="1019"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-8.3389831"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -138,9 +138,13 @@
        id="path17"
        fill="#000" />
   </g>
-  <path
-     d="m 17.322034,13.40678 h -2 l -5,10 h 2 z m -2,9 h 5 v 1 h -5 z"
-     id="path21"
-     inkscape:connector-curvature="0"
-     style="fill:#004c5a;fill-opacity:1" />
+  <g
+     id="g831"
+     style="fill:#0b1b27;fill-opacity:1">
+    <path
+       style="fill:#0b1b27;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path21"
+       d="m 17.322034,13.40678 h -2 l -5,10 h 2 z m -2,9 h 5 v 1 h -5 z" />
+  </g>
 </svg>
