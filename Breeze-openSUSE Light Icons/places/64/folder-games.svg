@@ -65,10 +65,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient855"
        id="linearGradient857"
-       x1="-91.101695"
-       y1="37"
-       x2="-33.101695"
-       y2="37"
+       x1="-72.101692"
+       y1="20"
+       x2="-45.033901"
+       y2="73.338982"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(94.101695)" />
   </defs>
@@ -82,11 +82,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1034"
+     inkscape:window-height="1026"
      id="namedview29"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="32"
+     inkscape:cx="-69.830508"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -142,16 +142,16 @@
   <g
      id="g25"
      transform="translate(-0.27118675,-1.3559322)"
-     style="fill:#004c5a;fill-opacity:1">
+     style="fill:#0b1b27;fill-opacity:1">
     <path
        d="m 25,30 c -2.21,0 -4,2.685 -4,5.999 v 6.998 c 0,1.78 2.154,2.673 3.414,1.413 l 2.414,-2.413 h 0.676 a 2.5,2.5 0 0 0 1.996,1 2.5,2.5 0 0 0 1.992,-1 h 0.906 a 2.5,2.5 0 0 0 1.997,1 2.5,2.5 0 0 0 1.992,-1 h 0.785 l 2.414,2.413 C 40.846,45.67 43,44.777 43,42.997 V 35.999 C 43,32.685 41.21,30 39,30 Z m 0,1 h 14 c 1.657,0 3,2.238 3,4.999 v 6.998 c 0,0.89 -1.077,1.336 -1.707,0.707 l -2.707,-2.707 h -1.779 a 1.5,1.5 0 0 1 -1.412,1 A 1.5,1.5 0 0 1 33,41.042 v -0.045 h -2.088 a 1.5,1.5 0 0 1 -1.412,1 1.5,1.5 0 0 1 -1.412,-1 h -1.674 l -2.707,2.707 C 23.077,44.334 22,43.888 22,42.997 v -6.998 c 0,-2.76 1.343,-5 3,-5 z"
        id="path21"
        inkscape:connector-curvature="0"
-       style="fill:#004c5a;fill-opacity:1" />
+       style="fill:#0b1b27;fill-opacity:1" />
     <path
        d="m 25,31.996 v 2 h -2 v 2 h 2 v 2 h 2 v -2 h 2 v -2 h -2 v -2 z m 11,7.5 a 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 1.5,1.5 0 0 1 1.5,1.5 z m -5,0 a 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 1.5,1.5 0 0 1 1.5,1.5 z m 8,-2.5 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z m 2,-2 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z m -2,-2 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z m -2,2 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z"
        id="path23"
        inkscape:connector-curvature="0"
-       style="fill:#004c5a;fill-opacity:1" />
+       style="fill:#0b1b27;fill-opacity:1" />
   </g>
 </svg>
