@@ -10,3 +10,10 @@ Changelog: 10.02.2020.
 ---------------------
 
 Icon correction in Folders: actions, applets, places
+
+Changelog: 10.06.2020.
+----------------------
+
+Update Breeze Icons 5.70
+
+
