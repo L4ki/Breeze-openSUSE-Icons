@@ -16,4 +16,9 @@ Changelog: 10.06.2020.
 
 Update Breeze Icons 5.70
 
+Changelog: 17.07.2020.
+---------------------
+
+Update Breeze Icons 5.72
+
 
