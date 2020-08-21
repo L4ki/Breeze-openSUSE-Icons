@@ -21,4 +21,9 @@ Changelog: 17.07.2020.
 
 Update Breeze Icons 5.72
 
+Changelog: 21.08.2020.
+----------------------
+
+Correction of some icons in the action folder
+
 
