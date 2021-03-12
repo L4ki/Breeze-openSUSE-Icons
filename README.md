@@ -46,3 +46,8 @@ Changelog: 24.02.2021.
 ----------------------
 
 Icons correction: action folder (22)
+
+Changelog: 12.03.2021.
+----------------------
+
+Fixed icons: compass.svg
