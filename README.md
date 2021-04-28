@@ -72,3 +72,8 @@ Changelog: 14.04.2021.
 
 Added new icons: devices  (symbolic)
 
+Changelog: 28.04.2021.
+---------------------
+
+Added new icons: applets (16,24,256)
+
