@@ -77,3 +77,8 @@ Changelog: 28.04.2021.
 
 Added new icons: applets (16,24,256)
 
+Changelog: 05.05.2021.
+----------------------
+
+Added new icons: actions (16)
+
