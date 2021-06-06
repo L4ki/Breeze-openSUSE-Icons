@@ -87,3 +87,8 @@ Changelog: 24.05.2021.
 
 Added new icons: emblems (16, 22, 24)
 
+Changelog: 06.06.2021.
+----------------------
+
+Added new icons: actions (32)
+
