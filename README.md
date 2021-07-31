@@ -106,3 +106,8 @@ Changelog: 06.07.2021.
 ----------------------
 
 Added new icons: status (16, 22, 24)
+
+Changelog: 31.07.2021.
+----------------------
+
+Added new icons: actions
