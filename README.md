@@ -130,6 +130,6 @@ Added new icons: status
 Changelog: 23.09.2021.
 ----------------------
 
-Added new icons" status (22, 24)
+Added new icons: status (22, 24)
 
 
