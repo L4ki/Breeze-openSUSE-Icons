@@ -132,4 +132,9 @@ Changelog: 23.09.2021.
 
 Added new icons: status (22, 24)
 
+Changelog: 10.10.2021.
+----------------------
+
+Added new icons: mimetypes
+
 
