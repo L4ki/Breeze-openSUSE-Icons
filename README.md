@@ -147,3 +147,9 @@ Changelog: 31.10.2021.
 ----------------------
 
 Added new icons: status (symbolic)
+
+
+Changelog: 07.11.2021.
+----------------------
+
+Added new icons: apps
