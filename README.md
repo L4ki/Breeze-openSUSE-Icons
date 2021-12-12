@@ -165,7 +165,7 @@ Changelog: 05.12.2021.
 
 Added new icons: actions (22)
 
-Changelog: 05.12.2021.
+Changelog: 12.12.2021.
 ----------------------
 
 Added new icons: actions (24)
