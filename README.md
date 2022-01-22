@@ -184,3 +184,8 @@ Changelog: 04.01.2022.
 ----------------------
 
 Added new icons: categories (32)
+
+Changelog: 23.01.2022.
+----------------------
+
+Added new icons: status (16)
