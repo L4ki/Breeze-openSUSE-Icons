@@ -189,3 +189,9 @@ Changelog: 23.01.2022.
 ----------------------
 
 Added new icons: status (16)
+
+
+Changelog: 02.02.2022.
+----------------------
+
+Added new icons: status (22)
