@@ -195,3 +195,15 @@ Changelog: 02.02.2022.
 ----------------------
 
 Added new icons: status (22)
+
+Changelog: 09.02.2022.
+----------------------
+
+Light Icons
+-----------
+Added new icons: status (24)
+
+Dark Icons
+----------
+
+Added new icons: status (symbolic)
