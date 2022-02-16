@@ -207,3 +207,15 @@ Dark Icons
 ----------
 
 Added new icons: status (symbolic)
+
+Changelog: 16.02.2022.
+----------------------
+
+Light Icons
+-----------
+Added new icons: devices (16)
+
+Dark Icons
+----------
+
+Added new icons: applets (256)
