@@ -250,4 +250,11 @@ Added new icons: mimetypes (22)
 Changelog: 04.04.2022.
 ----------------------
 
-Added new icons: mimetypes (22)
+Added new icons: mimetypes (32)
+
+
+Changelog: 11.04.2022.
+----------------------
+
+Added new icons: mimetypes (64)
+
