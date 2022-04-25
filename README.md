@@ -258,3 +258,9 @@ Changelog: 11.04.2022.
 
 Added new icons: mimetypes (64)
 
+
+Changelog: 25.04.2022.
+----------------------
+
+Added new icons: actions (16)
+
