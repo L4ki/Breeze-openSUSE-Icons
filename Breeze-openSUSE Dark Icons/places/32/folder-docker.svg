@@ -3,7 +3,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg12"
-   sodipodi:docname="folder-gdrive.svg"
+   sodipodi:docname="folder-docker.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -38,7 +38,7 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="7.3898305"
+     inkscape:cx="7.7966102"
      inkscape:cy="16.067797"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -148,8 +148,8 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="color:#31363b;fill:#d3ecf3;fill-opacity:1;stroke:none"
-     d="m 13.4,12.5 -3.4,6.7 1.7,3.3 3.6,-6.9 z m 0.9,0 4.3,6.7 H 22 L 17.7,12.5 Z M 14,20 12.6,22.5 h 7.7 L 22,20 Z"
+     style="color:#31363b;fill:#e5e5e5;fill-opacity:1;stroke:none"
+     d="m 15,14 v 1 h 1 v -1 z m 2,0 v 1 h 1 v -1 z m 3.269531,1.271484 c -0.523936,0.359082 -0.764906,1.009234 -0.601562,1.623047 C 19.833126,17.507888 20.366712,17.950717 21,18 c 0.211634,0.598592 0.777207,0.999109 1.412109,1 0.634902,-8.91e-4 1.200476,-0.401408 1.41211,-1 -0.211634,-0.598592 -0.777208,-0.999109 -1.41211,-1 -0.30289,9.28e-4 -0.598403,0.09353 -0.847656,0.265625 0.101286,-0.285859 0.113531,-0.595705 0.03516,-0.888672 C 21.434682,15.76423 20.90208,15.321559 20.269531,15.271484 Z M 21,18 H 9 c 0,3.313709 2.686291,5 6,5 3.313709,0 6,-1.686291 6,-5 z m -9,-2 v 1 h 1 v -1 z m 2,0 v 1 h 1 v -1 z m 2,0 v 1 h 1 v -1 z m 2,0 v 1 h 1 v -1 z m -6.5,3 C 11.776142,19 12,19.223858 12,19.5 12,19.776142 11.776142,20 11.5,20 11.223858,20 11,19.776142 11,19.5 11,19.223858 11.223858,19 11.5,19 Z"
      class="ColorScheme-Text"
      id="path12" />
 </svg>
