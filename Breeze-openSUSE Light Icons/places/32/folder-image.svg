@@ -11,7 +11,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg14"
-   sodipodi:docname="folder-pictures.svg"
+   sodipodi:docname="folder-image.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata18">
@@ -34,11 +34,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1034"
+     inkscape:window-height="1019"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-8.3389831"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -145,7 +145,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#d3ecf3;fill-opacity:1;stroke:none"
      d="M 11 13 L 11 23 L 21 23 L 21 21 L 21 13 L 11 13 z M 12 14 L 20 14 L 20 20 L 18 18 L 15 21 L 20 21 L 20 22 L 12 22 L 12 14 z M 14 15 A 1 1 0 0 0 13 16 A 1 1 0 0 0 14 17 A 1 1 0 0 0 15 16 A 1 1 0 0 0 14 15 z M 15 19 L 13 21 L 14 21 L 15.5 19.5 L 15 19 z "
      class="ColorScheme-Background"
      id="path12" />

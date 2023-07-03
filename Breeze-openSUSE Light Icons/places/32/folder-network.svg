@@ -34,11 +34,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1034"
+     inkscape:window-height="1019"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="16"
+     inkscape:cx="-8.3389831"
      inkscape:cy="16"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -145,7 +145,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#d3ecf3;fill-opacity:1;stroke:none"
      d="M 20 13 A 0.99999398 1 0 0 0 19 14 A 0.99999398 1 0 0 0 20 15 A 0.99999398 1 0 0 0 21 14 A 0.99999398 1 0 0 0 20 13 z M 16.5 15 A 0.5 0.5 0 0 0 16 15.5 A 0.5 0.5 0 0 0 16.5 16 A 0.5 0.5 0 0 0 17 15.5 A 0.5 0.5 0 0 0 16.5 15 z M 14.5 16 A 0.5 0.5 0 0 0 14 16.5 A 0.5 0.5 0 0 0 14.5 17 A 0.5 0.5 0 0 0 15 16.5 A 0.5 0.5 0 0 0 14.5 16 z M 12 17 A 0.99999398 1 0 0 0 11 18 A 0.99999398 1 0 0 0 12 19 A 0.99999398 1 0 0 0 13 18 A 0.99999398 1 0 0 0 12 17 z M 14.5 19 A 0.5 0.5 0 0 0 14 19.5 A 0.5 0.5 0 0 0 14.5 20 A 0.5 0.5 0 0 0 15 19.5 A 0.5 0.5 0 0 0 14.5 19 z M 16.5 20 A 0.5 0.5 0 0 0 16 20.5 A 0.5 0.5 0 0 0 16.5 21 A 0.5 0.5 0 0 0 17 20.5 A 0.5 0.5 0 0 0 16.5 20 z M 20 21 A 0.99999398 1 0 0 0 19 22 A 0.99999398 1 0 0 0 20 23 A 0.99999398 1 0 0 0 21 22 A 0.99999398 1 0 0 0 20 21 z "
      class="ColorScheme-Background"
      id="path12" />
