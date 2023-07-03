@@ -34,11 +34,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1034"
+     inkscape:window-height="1019"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="32"
+     inkscape:cx="-16.677966"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -145,7 +145,7 @@
      class="ColorScheme-Text"
      id="path10" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none"
+     style="fill:#d3ecf3;fill-opacity:1;stroke:none"
      d="M 24.707031 29 L 24 29.707031 L 28.292969 34 L 30.292969 36 L 28.292969 38 L 24 42.292969 L 24.707031 43 L 29 38.707031 L 28.992188 38.699219 L 31.699219 35.992188 L 29 33.292969 L 24.707031 29 z M 33 44 L 33 45 L 40 45 L 40 44 L 33 44 z "
      class="ColorScheme-Background"
      id="path12" />
