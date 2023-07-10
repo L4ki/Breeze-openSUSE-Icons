@@ -583,3 +583,8 @@ Changelog: 03.07.2023.
 
 Added new folders: places 32, 64
 
+Changelog: 10.07.2023.
+----------------------
+
+Added new icons: apps 32, 48
+
