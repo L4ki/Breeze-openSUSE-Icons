@@ -686,3 +686,8 @@ Changelog: 20.11.2023.
 ----------------------
 
 Added new icons: places 16, 22, 24
+
+Changelog: 27.11.2023.
+----------------------
+
+Added new icons: places 16, 22, 24
