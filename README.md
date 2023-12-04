@@ -691,3 +691,9 @@ Changelog: 27.11.2023.
 ----------------------
 
 Added new icons: places 16, 22, 24
+
+
+Changelog: 04.12.2023.
+----------------------
+
+Added new icons: apps 32, 48
