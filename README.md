@@ -15,4 +15,4 @@ Icons For Plasma Theme
 Changelog: 23.01.2024.
 ----------------------
 
-Update icons: apps 48
+Added new icons: apps 48
