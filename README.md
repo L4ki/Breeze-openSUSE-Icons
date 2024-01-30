@@ -12,7 +12,7 @@ Icons For Plasma Theme
 
 
 
-Changelog: 23.01.2024.
+Changelog: 30.01.2024.
 ----------------------
 
 Added new icons: apps 48
