@@ -31,7 +31,7 @@ Download: https://store.kde.org/p/1339435/
 </html>
 
 
-Screenshot:
+Screenshots:
 -----------
 
 
