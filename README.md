@@ -31,6 +31,10 @@ Download: https://store.kde.org/p/1339435/
 </html>
 
 
+Screenshot:
+-----------
+
+
 ![Screenshot_20210109_175307](https://user-images.githubusercontent.com/45247573/201469513-23204b7d-4293-4b5d-8127-4afe0b6f8d77.png)
 
 ![Screenshot_20210109_175635](https://user-images.githubusercontent.com/45247573/201469525-6d33ea72-58d9-4e46-8179-3a555c34a56b.jpg)
