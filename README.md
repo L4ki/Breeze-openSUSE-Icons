@@ -3,6 +3,18 @@
 Icons For Plasma Themes
 ----------------------
 
+Breeze-openSUSE-Dark-Rounded-Icons
+----------------------------------
+
+https://www.pling.com/p/2350443/
+---------------------------------
+
+Breeze-openSUSE-Light-Rounded-Icons
+-----------------------------------
+
+https://www.pling.com/p/2350442/
+---------------------------------
+
 Breeze-openSUSE Dark Icons
 --------------------------
 
